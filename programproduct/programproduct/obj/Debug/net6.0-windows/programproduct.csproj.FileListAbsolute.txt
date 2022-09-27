@@ -17,3 +17,22 @@ D:\hse rep\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows
 D:\hse rep\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.Programproduct.resources
 D:\hse rep\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.Properties.Resources.resources
 D:\hse rep\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.Form2.resources
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\bin\Debug\net6.0-windows\programproduct.exe
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\bin\Debug\net6.0-windows\programproduct.deps.json
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\bin\Debug\net6.0-windows\programproduct.runtimeconfig.json
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\bin\Debug\net6.0-windows\programproduct.dll
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\bin\Debug\net6.0-windows\programproduct.pdb
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.csproj.AssemblyReference.cache
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.Programproduct.resources
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.Form2.resources
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.Properties.Resources.resources
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.csproj.GenerateResource.cache
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.AssemblyInfoInputs.cache
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.AssemblyInfo.cs
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.csproj.CoreCompileInputs.cache
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.dll
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\refint\programproduct.dll
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.pdb
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\programproduct.genruntimeconfig.cache
+C:\Users\777\Documents\GitHub\programproduct\programproduct\programproduct\obj\Debug\net6.0-windows\ref\programproduct.dll
